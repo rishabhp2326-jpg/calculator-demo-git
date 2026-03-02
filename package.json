@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "axios": "^1.13.6"
-  }
+  },
+  "name": "calculator-demo-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhp2326-jpg/calculator-demo-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rishabhp2326-jpg/calculator-demo-git/issues"
+  },
+  "homepage": "https://github.com/rishabhp2326-jpg/calculator-demo-git#readme"
 }
